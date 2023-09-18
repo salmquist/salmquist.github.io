@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Stephanie Almquist"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house
+      - href: about.qmd
+        text: About Me
+        icon: stars
+      - href: resume.qmd
+        text: My Resume
+        icon: card-list
+        
+
+
+format:
+  html:
+    theme: Quartz
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "Flavor Creation"
+toc: false
+---
+
+```{r}
+#Welcome to the Flavor Sphere where I will discover along with you the flavors of the world in many different angles: analytically, sensorially
+```

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Flavor Creation",
+    "section": "",
+    "text": "#Welcome to the Flavor Sphere where I will discover along with you the flavors of the world in many different angles: analytically, sensorially"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "1 Work Experiences\n\n\n2 Summer Internship\n\n\n3 Leadership Skills"
+  },
+  {
+    "objectID": "resume.html#section",
+    "href": "resume.html#section",
+    "title": "Stephanie Almquist",
+    "section": "",
+    "text": "title: “Resume” subtitle: “This page talks about my ongoing and past research and work experiences” date: 2023-09-11 author: “Stephanie Almquist” editor: visual title-block-banner: true number-sections: true toc: false ---"
+  }
+]

@@ -1,0 +1,18 @@
+---
+title: "Resume"
+subtitle: "This page talks about my ongoing and past research and work experiences"
+date: 2023-09-11
+author: "Stephanie Almquist"
+editor: visual
+title-block-banner: true
+number-sections: true
+toc: false
+code-fold: true
+favicon: tree
+---
+
+# Work Experiences
+
+# Summer Internship
+
+# Leadership Skills

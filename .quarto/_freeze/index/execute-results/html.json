@@ -1,0 +1,14 @@
+{
+  "hash": "4876ff6e6847bf74859f999348213a21",
+  "result": {
+    "markdown": "---\ntitle: \"Flavor Creation\"\ntoc: false\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n#Welcome to the Flavor Sphere where I will discover along with you the flavors of the world in many different angles: analytically, sensorially\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
